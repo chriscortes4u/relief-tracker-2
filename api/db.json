@@ -1,4 +1,10 @@
 {
-  "efforts": [],
+  "efforts": [
+  {
+    "id": "1",
+    "name": "Food Relief"
+  }
+
+  ],
   "locations": []
 }
